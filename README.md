@@ -12,7 +12,7 @@ Go 1.23.0
    ```
    git clone https://github.com/SalmandaAK/github-activity.git
    ```
-2. Go to the folder
+2. Go to the project directory
    ```
    cd github-activity
    ```
@@ -22,7 +22,10 @@ Go 1.23.0
    ```
 
 ### Command
-# Fetch recent activity of a Github user
 ```
+# Fetch recent activity of a Github user
 ./github-activity <username>
 ```
+
+### Usage Example
+![github-activity](https://github.com/user-attachments/assets/3d1ffc48-a9f3-4a3d-8c89-21e61a8af2a9)
